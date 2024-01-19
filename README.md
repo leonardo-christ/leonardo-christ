@@ -3,8 +3,8 @@ Onde você encontrará todos os projetos que estou desenvolvendo durante meu cur
 
 Desde o início da minha jornada na programação, meu amor por essa disciplina só cresceu a cada dia.
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=leonardo-christ&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-christ&layout=compact"/>
+    <img  height="180px "src="https://github-readme-stats.vercel.app/api?username=leonardo-christ&show_icons=true&theme=tokyonight"/>
+    <img height="180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-christ&layout=compact"/>
 </div>
 
 ### Tecnologias frequentemente utilizadas por mim.
