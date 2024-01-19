@@ -2,10 +2,10 @@
 Onde você encontrará todos os projetos que estou desenvolvendo durante meu curso na E.B.A.C, além de projetos pessoais em andamento.
 
 Desde o início da minha jornada na programação, meu amor por essa disciplina só cresceu a cada dia.
-
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-christ&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-christ&layout=compact)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=leonardo-christ&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-christ&layout=compact"/>
+</div>
 
 ### Tecnologias frequentemente utilizadas por mim.
 
